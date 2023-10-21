@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.24 (2023-10-21)
+
+
+### Features
+
+* add download for remote dir ([e9ea319](https://github.com/maitrungduc1410/node-scp-async/commit/e9ea319cbe09b1202baa684e5077c01bac32d284))
+* add more operations ([0aaade9](https://github.com/maitrungduc1410/node-scp-async/commit/0aaade9530b569b29df957782ddd296953c8af64))
+* add support for passing options to uploadFile, downloadFile and mkdir ([3769ece](https://github.com/maitrungduc1410/node-scp-async/commit/3769ece84dcdb8830e9b18e3ec84a0fa4e10e903))
+* add support for readyTimeout and keepalive ([0fc1742](https://github.com/maitrungduc1410/node-scp-async/commit/0fc1742819776cbae6ae6623cdce4b6e2de21cb5))
+* add supported for listening for ssh events ([09a089c](https://github.com/maitrungduc1410/node-scp-async/commit/09a089c47ca60135449488c4305883b8bb0b5e43))
+* allow passing all options from ssh2 ([758607e](https://github.com/maitrungduc1410/node-scp-async/commit/758607e7159ab802d2c0c467796857dc85250ad9))
+
+
+### Bug Fixes
+
+* error during close connection ([cd1d4dc](https://github.com/maitrungduc1410/node-scp-async/commit/cd1d4dc66b8a6db606ca4aed8861597fff1fdae3))
+* use export default instead of module exports ([0bfbc8c](https://github.com/maitrungduc1410/node-scp-async/commit/0bfbc8c87088c9184b6c485231ea6fb7a585484e))
+
 ### [0.0.22](https://github.com/maitrungduc1410/node-scp-async/compare/v0.0.21...v0.0.22) (2022-09-20)
 
 
