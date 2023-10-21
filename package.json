@@ -35,7 +35,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "ssh2": "^1.14.0"
+    "ssh2": "git+https://github.com/KitchenMate/ssh2.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
